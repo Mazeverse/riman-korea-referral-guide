@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://riman.tire210.com/sitemap.xml
